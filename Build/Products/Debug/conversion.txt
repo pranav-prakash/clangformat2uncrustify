@@ -1,0 +1,13 @@
+AccessModifierOffset indent_access_spec
+AlignTrailingComments align_right_cmt_span
+ColumnLimit code_width
+IndentWidth indent_columns
+MaxEmptyLinesToKeep nl_max
+PointerAlignmentStyle align_var_def_star_style
+PointerAlignmentStyle align_typedef_star_style
+PointerAlignmentStyle align_var_def_amp_style
+PointerAlignmentStyle align_typedef_amp_style
+SpaceAfterCStyleCast sp_after_cast
+SpaceBeforeAssignmentOperators sp_before_assign
+TabWidth input_tab_size
+UseTab indent_with_tabs
