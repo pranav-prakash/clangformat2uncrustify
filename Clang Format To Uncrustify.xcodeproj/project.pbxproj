@@ -28,7 +28,7 @@
 		403583841A5CD7A90031FA40 /* Clang Format To Uncrustify */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Clang Format To Uncrustify"; sourceTree = BUILT_PRODUCTS_DIR; };
 		403583871A5CD7A90031FA40 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		403583891A5CD7A90031FA40 /* Clang_Format_To_Uncrustify.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Clang_Format_To_Uncrustify.1; sourceTree = "<group>"; };
-		40A968FE1A6387170007F29A /* conversion.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = conversion.txt; path = Build/Products/Debug/conversion.txt; sourceTree = SOURCE_ROOT; };
+		40A968FF1A638AB40007F29A /* conversion.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = conversion.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				403583871A5CD7A90031FA40 /* main.cpp */,
-				40A968FE1A6387170007F29A /* conversion.txt */,
+				40A968FF1A638AB40007F29A /* conversion.txt */,
 				403583891A5CD7A90031FA40 /* Clang_Format_To_Uncrustify.1 */,
 			);
 			path = "Clang Format To Uncrustify";
