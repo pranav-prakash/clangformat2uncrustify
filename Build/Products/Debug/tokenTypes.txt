@@ -1,0 +1,13 @@
+AccessModifierOffset 0
+AlignTrailingComments 0
+ColumnLimit 0
+IndentWidth 0
+MaxEmptyLinesToKeep 0
+PointerAlignmentStyle 0
+PointerAlignmentStyle 0
+PointerAlignmentStyle 0
+PointerAlignmentStyle 0
+SpaceAfterCStyleCast 0
+SpaceBeforeAssignmentOperators 0
+TabWidth 0
+UseTab 0
